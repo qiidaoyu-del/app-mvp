@@ -1,0 +1,9 @@
+{
+  "root": true,
+  "extends": ["@react-native"],
+  "ignorePatterns": ["node_modules/", "dist/", "build/"],
+  "env": { "es2021": true },
+  "parserOptions": { "ecmaVersion": 2021, "sourceType": "module" },
+  "rules": {}
+}
+
